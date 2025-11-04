@@ -1,8 +1,8 @@
-# Mini Sistema RH ó C++ (FÈrias / Faltas)
+# Mini Sistema RH ‚Äî C++ (F√©rias / Faltas)
 
--Projeto simples em C++ para gerir colaboradores, marcar fÈrias/faltas e visualizar um calend·rio mensal.
+-Projeto simples em C++ para gerir colaboradores, marcar f√©rias/faltas e visualizar um calend√°rio mensal.
 
-- Os colaboradores s„o guardados num ficheiro TXT e os nomes ficam encriptados com uma cifra de CÈsar (shift +3).
+- Os colaboradores s√£o guardados num ficheiro TXT e os nomes ficam encriptados com uma cifra de C√©sar (shift +3).
 
 - Funcionalidades
 
@@ -10,17 +10,17 @@
 
 - Listar colaboradores
 
-- Marcar fÈrias (F)
+- Marcar f√©rias (F)
 
 - Marcar faltas (X)
 
-- Remover marcaÁıes
+- Remover marca√ß√µes
 
-- Mostrar calend·rio mensal com indicadores
+- Mostrar calend√°rio mensal com indicadores
 
-- Legendas do calend·rio:
+- Legendas do calend√°rio:
 
-- F = FÈrias
+- F = F√©rias
 
  - X = Falta
 
@@ -28,8 +28,6 @@
 
 - Como correr localmente
 
-- Sim, pode correr localmente.
+-Pode se correr localmente basta ter o visual studio instalado no meu caso foi o visual studio 2026 insiders com as devidas extens√µes isntaladas
 
-- Necess·rio apenas um compilador C++ como por exemplo:
 
-- Visual Studio (usei Visual Studio 2026 Insiders)
